@@ -1,5 +1,5 @@
 # clustering-on-students-database
-Attributes for both student-mat.csv (Math course) and student-por.csv (Portuguese language course) datasets:
+Attributes for both student-mat.csv (Math course):
 
 school - student's school (binary: 'GP' - Gabriel Pereira or 'MS' - Mousinho da Silveira)
 sex - student's sex (binary: 'F' - female or 'M' - male)
