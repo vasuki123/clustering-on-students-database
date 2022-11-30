@@ -33,6 +33,7 @@ health - current health status (numeric: from 1 - very bad to 5 - very good)
 absences - number of school absences (numeric: from 0 to 93)
 These grades are related with the course subject, Math or Portuguese:
 
+27% of children under 18 live single parent of household in US. 23% of children are being raised by their mother without their father. 4% of children are raised by their father without their mother.
 G1 - first period grade (numeric: from 0 to 20)
 G2 - second period grade (numeric: from 0 to 20)
 G3 - final grade (numeric: from 0 to 20, output target)
